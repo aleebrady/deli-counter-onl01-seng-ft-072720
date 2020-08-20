@@ -6,5 +6,5 @@ def line(line)
   puts "The line is currently empty."
   
 else line.count > 0 
-  
+end
 end

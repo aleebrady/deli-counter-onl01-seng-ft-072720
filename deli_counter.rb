@@ -1,5 +1,5 @@
 require 'pry'
 
-def line
+def line(num)
   
 end

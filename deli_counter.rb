@@ -6,6 +6,6 @@ def line(line)
   puts "The line is currently empty."
   
 else line.each.with_index do |i, n|
-  puts ""
+  puts "The line is currently empty."
 end
 end

@@ -6,6 +6,7 @@ def line(line)
   puts "The line is currently empty."
   else line.each.with_index do |n, i|
   puts "The line is currently: #{i+1}. #{n}"
+  binding.pry
 end
 end
 end
